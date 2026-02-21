@@ -14,8 +14,4 @@ Note that the raw data files are not included in this remote archive (due to siz
 
 ### Further details
 
-For further information on the analyses performed here, read the project blog:                                
-http://sj971.github.io
-
-For more information about the BRFSS, see:                                                                  
-http://www.cdc.gov/brfss/
+For more information about the BRFSS, see: http://www.cdc.gov/brfss/
